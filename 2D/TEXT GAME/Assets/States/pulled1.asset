@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f5e18a2fc47944079c237da699a36f4, type: 3}
+  m_Name: pulled1
+  m_EditorClassIdentifier: 
+  storyText: 'You have signalled, Your allies are apporaching with guns and tear gas.
+
+    Get a tear gas containers and throw it in the guards compartment
+
+
+    Press 1 to throw'
+  nextStates:
+  - {fileID: 11400000, guid: 72b91d42b591946f1aff602919713752, type: 2}

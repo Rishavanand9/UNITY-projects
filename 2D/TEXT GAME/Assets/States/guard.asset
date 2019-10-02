@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f5e18a2fc47944079c237da699a36f4, type: 3}
+  m_Name: guard
+  m_EditorClassIdentifier: 
+  storyText: You are a rebellion not a ROBOCOP you are dead in 10 seconds
+  nextStates:
+  - {fileID: 11400000, guid: 4f7d889b5d94d4254b4370e12fca8bca, type: 2}
+  - {fileID: 11400000, guid: fc2bc6a902f0f468aa26bfe7925db897, type: 2}

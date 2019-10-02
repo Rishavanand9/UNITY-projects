@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f5e18a2fc47944079c237da699a36f4, type: 3}
+  m_Name: Get In
+  m_EditorClassIdentifier: 
+  storyText: "You make the plan of rob the gold which is being taken in the traing
+    from kakori to luknow. With this gold you are going to:\n1-  use it to buy stuff
+    \n2- buy weapons"
+  nextStates:
+  - {fileID: 11400000, guid: 9b3e9d22e4db94cc792e3e037849db31, type: 2}
+  - {fileID: 11400000, guid: 71864e1eb404b48cb9e7dd3fcc59d2b3, type: 2}

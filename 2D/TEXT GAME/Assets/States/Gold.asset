@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f5e18a2fc47944079c237da699a36f4, type: 3}
+  m_Name: Gold
+  m_EditorClassIdentifier: 
+  storyText: " The compartment of gold treasure is guarded by two INDIAN guards.\nWhat
+    do you do ? \n\n 1 -  Try to kill the guards \n2 -  Enter from above the train
+    taking guard by surprise"
+  nextStates:
+  - {fileID: 11400000, guid: 0cce7f71fba4b4917982ce8674ebe19d, type: 2}
+  - {fileID: 11400000, guid: 0cce7f71fba4b4917982ce8674ebe19d, type: 2}
