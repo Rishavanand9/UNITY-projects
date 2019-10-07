@@ -1,16 +1,10 @@
 ﻿<Properties StartupConfiguration="{BD39570A-49AF-8397-9A74-8C630715D28E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/State.cs">
-    <Files>
-      <File FileName="Assets/AdventureGame.cs" Line="13" Column="41" />
-      <File FileName="Assets/State.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TEXT GAME" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="AdventureGame.cs" selected="True" />
-            </Node>
+            <Node name="Assets" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -18,7 +12,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="47f20981-03e4-4cf7-b8fe-6e2d13c45189" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="640ab659-33ed-4cd5-be77-8d6da823b70b" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

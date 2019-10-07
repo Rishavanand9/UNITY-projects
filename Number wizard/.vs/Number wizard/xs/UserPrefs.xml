@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{9F2136ED-C690-7FB1-C06A-D87C6E94A95E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/StartingScene.cs">
+    <Files>
+      <File FileName="Assets/Script/StartingScene.cs" Line="21" Column="2" />
+      <File FileName="Assets/Script/NumberWizard.cs" Line="26" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Number wizard" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="StartingScene.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7fb34c52-b5bf-449f-ae44-5fb3adbc161a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
